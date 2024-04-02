@@ -13,7 +13,7 @@ const Footer = () => {
                     <h3>Important Links</h3>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/">About</a></li>
+                    <li><a href="/about">About</a></li>
                     <li><a href="/">Menu</a></li>
                     <li><a href="/booking">Reservations</a></li>
                     <li><a href="/">Order Online</a></li>
